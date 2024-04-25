@@ -105,7 +105,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55a1d098384c8ed499fbaa83cfc6a730, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player: {fileID: 0}
   speed: 1.5
 --- !u!114 &3011949960512274025
 MonoBehaviour:
@@ -119,7 +118,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55a1d098384c8ed499fbaa83cfc6a730, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player: {fileID: 0}
   speed: 1.5
 --- !u!1 &5730484032964580080 stripped
 GameObject:
@@ -138,8 +136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55a1d098384c8ed499fbaa83cfc6a730, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player: {fileID: 0}
-  speed: 5
+  speed: 3
 --- !u!95 &3377927487845052195
 Animator:
   serializedVersion: 5
